@@ -29,7 +29,7 @@ CRTA        = ONLINE   # Certified Red Team Analyst
 API-RTA     = ONLINE   # API Red Team Analyst
 WEB-RTA     = ONLINE   # Web Red Team Analyst
 OCO-AI      = ONLINE   # Offensive Cyber Operations - AI
-eJPT        = ONLINE   # Junior Penetration Tester
+MCBTA       = ONLINE
 
 [current_focus]
 >> Web & API Penetration Testing
@@ -209,11 +209,11 @@ transition_to -> "Hardcore Red Teaming Operations Role"
 
 <div align="center">
 
-![CRTA](https://img.shields.io/badge/CRTA-B8860B?style=for-the-badge&labelColor=000000&color=B8860B)
-![API-RTA](https://img.shields.io/badge/API--RTA-B8860B?style=for-the-badge&labelColor=000000&color=B8860B)
-![WEB-RTA](https://img.shields.io/badge/WEB--RTA-B8860B?style=for-the-badge&labelColor=000000&color=B8860B)
-![OCO-AI](https://img.shields.io/badge/OCO--AI-B8860B?style=for-the-badge&labelColor=000000&color=B8860B)
-![eJPT](https://img.shields.io/badge/eJPT-B8860B?style=for-the-badge&labelColor=000000&color=B8860B)
+<img height="56" src="assets/certs/crta.svg" alt="CRTA Certification" />
+<img height="56" src="assets/certs/api-rta.svg" alt="API-RTA Certification" />
+<img height="56" src="assets/certs/web-rta.svg" alt="WEB-RTA Certification" />
+<img height="56" src="assets/certs/oco-ai.svg" alt="OCO-AI Certification" />
+<img height="56" src="assets/certs/mcbta.svg" alt="MCBTA Certification" />
 
 </div>
 
