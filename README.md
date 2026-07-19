@@ -179,16 +179,14 @@ transition_to -> "Hardcore Red Teaming Operations Role"
 ## `[ STATS.exe ]`
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yaman-RedTeam&show_icons=true&hide_border=true&bg_color=000000&title_color=ff1a1a&icon_color=ff1a1a&text_color=c9c9c9&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaman-RedTeam&layout=compact&hide_border=true&bg_color=000000&title_color=ff1a1a&text_color=c9c9c9&langs_count=8" alt="top langs" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaman-RedTeam&hide_border=true&background=000000&stroke=ff1a1a&ring=ff1a1a&fire=ff1a1a&currStreakLabel=ff1a1a&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=6b6b6b" alt="streak" />
-</div>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Yaman-RedTeam&show_icons=true&hide_border=true&bg_color=000000&title_color=ff1a1a&icon_color=ff1a1a&text_color=c9c9c9&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yaman-RedTeam&layout=compact&hide_border=true&bg_color=000000&title_color=ff1a1a&text_color=c9c9c9&langs_count=8" alt="Top Languages" />
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yaman-RedTeam&bg_color=000000&color=ff1a1a&line=ff1a1a&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaman-RedTeam&hide_border=true&background=000000&stroke=ff1a1a&ring=ff1a1a&fire=ff1a1a&currStreakLabel=ff1a1a&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=6b6b6b" alt="GitHub Streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yaman-RedTeam&bg_color=000000&color=ff1a1a&line=ff1a1a&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" />
+
 </div>
 
 ---
@@ -197,11 +195,11 @@ transition_to -> "Hardcore Red Teaming Operations Role"
 
 <div align="center">
 
-| :: PROJECT | :: DESCRIPTION |
+| Repository | Highlights |
 |:---|:---|
-| [**`Vapt-Full-Working-Project`**](https://github.com/Yaman-RedTeam/Vapt-Full-Working-Project) | End-to-end VAPT lab — EternalBlue exploitation, Mimikatz, Splunk detection rules, GoPhish campaigns |
-| [**`Yaman-eJpt-Training`**](https://github.com/Yaman-RedTeam/Yaman-eJpt-Training) | eJPT preparation notes, cheat sheets &amp; exploitation walkthroughs |
-| [**`Local-LLM-Setup`**](https://github.com/Yaman-RedTeam/Local-LLM-Setup) | Local LLM deployment for offensive AI &amp; research workflows |
+| [**`VAPT-Full-Working-Project`**](https://github.com/Yaman-RedTeam/Vapt-Full-Working-Project) | Complete enterprise VAPT lab covering exploitation, Active Directory, detection engineering, Splunk, phishing simulations and reporting. |
+| [**`Yaman-eJPT-Training`**](https://github.com/Yaman-RedTeam/Yaman-eJpt-Training) | eJPT preparation notes, methodology, privilege escalation, Active Directory labs and walkthroughs. |
+| [**`Local-LLM-Setup`**](https://github.com/Yaman-RedTeam/Local-LLM-Setup) | Local AI infrastructure for offensive security, MCP workflows, AI agents and cybersecurity research. |
 
 </div>
 
@@ -223,9 +221,11 @@ transition_to -> "Hardcore Red Teaming Operations Role"
 
 <div align="center">
 
-### `> connect --collaborate --bridge_exploitation_and_mitigation`
+### `> Building • Breaking • Defending`
 
-<sub>⚡ 30K+ cybersecurity community · YouTube research channel · Top 1% TryHackMe</sub>
+**Offensive Security • Red Teaming • AI Offensive Operations • Web Security • Active Directory**
+
+<sub>30K+ cybersecurity community · YouTube research channel · Top 1% TryHackMe</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:8b0000,100:000000&height=100&section=footer" />
 
