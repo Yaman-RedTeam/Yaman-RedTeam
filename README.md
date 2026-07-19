@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8b0000,100:ff0000&height=220&section=header&text=YAMAN%20RED%20TEAM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20%7C%20Red%20Team%20Operations&descAlignY=58&descColor=ff3131&descSize=18" />
+<img width="100%" src="assets/banner.jpg" alt="Yaman RedTeam Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FF1A1A&background=000000&center=true&vCenter=true&width=650&lines=%3E+whoami+%3A%3A+red_team_analyst;%3E+status+%3A%3A+exploiting+to+defend;%3E+specialty+%3A%3A+OSINT+%2B+AD+%2B+WebPT;%3E+mission+%3A%3A+breach_before_they_do()" alt="Typing SVG" />
 
@@ -25,8 +25,10 @@ location    = Sitapur, Uttar Pradesh, IN
 education   = MCA (Cybersecurity) — Amity University
 
 [certifications]
-eJPT        = ONLINE
-ISC2_CC     = ONLINE
+eJPT        = ONLINE   # Junior Penetration Tester
+ISC2_CC     = ONLINE   # Certified in Cybersecurity
+CRTS_V2     = ONLINE   # Red Team Specialist
+COPO        = ONLINE   # Certified Offensive Phishing Operator
 Offensive_AI_Operator = ONLINE
 
 [current_focus]
@@ -111,8 +113,10 @@ transition_to -> "Hardcore Red Teaming Operations Role"
 
 <div align="center">
 
-![eJPT](https://img.shields.io/badge/eJPT-INE-000000?style=for-the-badge&logoColor=ff1a1a&labelColor=000000)
+![eJPT](https://img.shields.io/badge/eJPT-JUNIOR_PENETRATION_TESTER-000000?style=for-the-badge&logoColor=ff1a1a&labelColor=000000)
 ![ISC2 CC](https://img.shields.io/badge/ISC2-CERTIFIED_IN_CYBERSECURITY-000000?style=for-the-badge&logoColor=ff1a1a&labelColor=000000)
+![CRTS V2](https://img.shields.io/badge/CRTS_V2-RED_TEAM_SPECIALIST-000000?style=for-the-badge&logoColor=ff1a1a&labelColor=000000)
+![COPO](https://img.shields.io/badge/COPO-OFFENSIVE_PHISHING_OPERATOR-000000?style=for-the-badge&logoColor=ff1a1a&labelColor=000000)
 ![Offensive AI](https://img.shields.io/badge/OFFENSIVE_AI-OPERATOR-000000?style=for-the-badge&logoColor=ff1a1a&labelColor=000000)
 
 </div>
