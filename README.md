@@ -25,11 +25,7 @@ location    = Sitapur, Uttar Pradesh, IN
 education   = MCA (Cybersecurity) — Amity University
 
 [certifications]
-CRTA        = ONLINE   # Certified Red Team Analyst
-API-RTA     = ONLINE   # API Red Team Analyst
-WEB-RTA     = ONLINE   # Web Red Team Analyst
-OCO-AI      = ONLINE   # Offensive Cyber Operations - AI
-MCBTA       = ONLINE
+verified    = 5   # see CERTIFICATIONS.log section below
 
 [current_focus]
 >> Web & API Penetration Testing
@@ -209,41 +205,75 @@ transition_to -> "Hardcore Red Teaming Operations Role"
 
 <div align="center">
 
-<img height="56" src="assets/certs/crta.svg" alt="CRTA Certification" />
-<img height="56" src="assets/certs/api-rta.svg" alt="API-RTA Certification" />
-<img height="56" src="assets/certs/web-rta.svg" alt="WEB-RTA Certification" />
-<img height="56" src="assets/certs/oco-ai.svg" alt="OCO-AI Certification" />
-<img height="56" src="assets/certs/mcbta.svg" alt="MCBTA Certification" />
-
-<br/><br/>
+### `> Verified Professional Certifications`
 
 <table>
 <tr>
+
 <td align="center" width="33%">
-<a href="assets/certs/crta.png"><img src="assets/certs/crta.png" width="100%" alt="CRTA Certificate" /></a>
-<br/><sub><b>CRTA</b> — Certified Red Team Analyst</sub>
+<a href="assets/certs/raw/crta.png" title="Click to view full-resolution certificate">
+<img src="assets/certs/cards/crta-card.png" width="100%" alt="CRTA — Certified Red Team Analyst" />
+</a>
+<br/>
+<b>CRTA</b> — Certified Red Team Analyst
+<br/><sub>Red team operations, adversary emulation &amp; C2 tradecraft</sub>
+<br/><sub>Issued 07/18/2026 · CyberWarfare Labs</sub>
+<br/><sub>ID: <code>CRTA-6a5be3138aed14e94c892962</code></sub>
 </td>
+
 <td align="center" width="33%">
-<a href="assets/certs/api-rta.png"><img src="assets/certs/api-rta.png" width="100%" alt="API-RTA Certificate" /></a>
-<br/><sub><b>API-RTA</b> — Certified API Red Team Analyst</sub>
+<a href="assets/certs/raw/api-rta.png" title="Click to view full-resolution certificate">
+<img src="assets/certs/cards/api-rta-card.png" width="100%" alt="API-RTA — Certified API Red Team Analyst" />
+</a>
+<br/>
+<b>API-RTA</b> — Certified API Red Team Analyst
+<br/><sub>API exploitation, auth bypass &amp; business-logic attacks</sub>
+<br/><sub>Issued 06/27/2026 · CyberWarfare Labs</sub>
+<br/><sub>ID: <code>API-RTA-6a3fc83d51cc04facb4fbaa7</code></sub>
 </td>
+
 <td align="center" width="33%">
-<a href="assets/certs/web-rta.png"><img src="assets/certs/web-rta.png" width="100%" alt="WEB-RTA Certificate" /></a>
-<br/><sub><b>WEB-RTA</b> — Certified Web Red Team Analyst</sub>
+<a href="assets/certs/raw/web-rta.png" title="Click to view full-resolution certificate">
+<img src="assets/certs/cards/web-rta-card.png" width="100%" alt="WEB-RTA — Certified Web Red Team Analyst" />
+</a>
+<br/>
+<b>WEB-RTA</b> — Certified Web Red Team Analyst
+<br/><sub>Web application exploitation &amp; advanced attack chains</sub>
+<br/><sub>Issued 07/06/2026 · CyberWarfare Labs</sub>
+<br/><sub>ID: <code>WEB-RTA-6a4bdfec0a225aa3dd00075a</code></sub>
 </td>
+
 </tr>
 <tr>
+
 <td align="center" width="33%">
-<a href="assets/certs/oco-ai.png"><img src="assets/certs/oco-ai.png" width="100%" alt="OCO-AI Certificate" /></a>
-<br/><sub><b>OCO-AI</b> — Certified Offensive AI Operator</sub>
+<a href="assets/certs/raw/oco-ai.png" title="Click to view full-resolution certificate">
+<img src="assets/certs/cards/oco-ai-card.png" width="100%" alt="OCO-AI — Certified Offensive AI Operator" />
+</a>
+<br/>
+<b>OCO-AI</b> — Certified Offensive AI Operator
+<br/><sub>AI-driven offensive operations &amp; LLM / agent red teaming</sub>
+<br/><sub>Issued 07/06/2026 · CyberWarfare Labs</sub>
+<br/><sub>ID: <code>OCO-AI-6a4c09090a225aa3dd001b57</code></sub>
 </td>
+
 <td align="center" width="33%">
-<a href="assets/certs/mcbta.png"><img src="assets/certs/mcbta.png" width="100%" alt="MCBTA Certificate" /></a>
-<br/><sub><b>MCBTA</b> — Certified Multi-Cloud Blue Team Analyst</sub>
+<a href="assets/certs/raw/mcbta.png" title="Click to view full-resolution certificate">
+<img src="assets/certs/cards/mcbta-card.png" width="100%" alt="MCBTA — Certified Multi-Cloud Blue Team Analyst" />
+</a>
+<br/>
+<b>MCBTA</b> — Certified Multi-Cloud Blue Team Analyst
+<br/><sub>Multi-cloud detection engineering across AWS, Azure &amp; GCP</sub>
+<br/><sub>Issued 04/07/2026 · CyberWarfare Labs</sub>
+<br/><sub>ID: <code>MCBTA-69d4da20c705942f0b4112e4</code></sub>
 </td>
+
 <td width="33%"></td>
+
 </tr>
 </table>
+
+<sub>Click any card to open the full-resolution certificate.</sub>
 
 </div>
 
