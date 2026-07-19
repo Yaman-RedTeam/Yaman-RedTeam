@@ -52,33 +52,33 @@ transition_to -> "Hardcore Red Teaming Operations Role"
 **// EXPLOITATION**
 ![Metasploit](https://img.shields.io/badge/METASPLOIT-D9534F?style=for-the-badge&logo=metasploit&logoColor=ffffff)
 ![Burp Suite](https://img.shields.io/badge/BURP_SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=ffffff)
-🎯![Cobalt Strike](https://img.shields.io/badge/COBALT_STRIKE-B8860B?style=for-the-badge&labelColor=B8860B&color=B8860B)
-💉![sqlmap](https://img.shields.io/badge/SQLMAP-FF8C00?style=for-the-badge&labelColor=FF8C00&color=FF8C00)
-🐉![Hydra](https://img.shields.io/badge/HYDRA-6A0DAD?style=for-the-badge&labelColor=6A0DAD&color=6A0DAD)
-🔓![John the Ripper](https://img.shields.io/badge/JOHN_THE_RIPPER-8B8000?style=for-the-badge&labelColor=8B8000&color=8B8000)
+![Cobalt Strike](https://img.shields.io/badge/COBALT_STRIKE-B8860B?style=for-the-badge&labelColor=B8860B&color=B8860B)
+![sqlmap](https://img.shields.io/badge/SQLMAP-FF8C00?style=for-the-badge&labelColor=FF8C00&color=FF8C00)
+![Hydra](https://img.shields.io/badge/HYDRA-6A0DAD?style=for-the-badge&labelColor=6A0DAD&color=6A0DAD)
+![John the Ripper](https://img.shields.io/badge/JOHN_THE_RIPPER-8B8000?style=for-the-badge&labelColor=8B8000&color=8B8000)
 
 **// RECON &amp; OSINT**
-🛰️![Nmap](https://img.shields.io/badge/NMAP-00A8E8?style=for-the-badge&labelColor=00A8E8&color=00A8E8)
-🌾![theHarvester](https://img.shields.io/badge/THEHARVESTER-DAA520?style=for-the-badge&labelColor=DAA520&color=DAA520)
-🕸️![Maltego](https://img.shields.io/badge/MALTEGO-2E8B57?style=for-the-badge&labelColor=2E8B57&color=2E8B57)
+![Nmap](https://img.shields.io/badge/NMAP-00A8E8?style=for-the-badge&labelColor=00A8E8&color=00A8E8)
+![theHarvester](https://img.shields.io/badge/THEHARVESTER-DAA520?style=for-the-badge&labelColor=DAA520&color=DAA520)
+![Maltego](https://img.shields.io/badge/MALTEGO-2E8B57?style=for-the-badge&labelColor=2E8B57&color=2E8B57)
 ![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=ffffff)
 
 **// SYSTEMS, DETECTION &amp; PHISHING**
 ![Kali](https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
-🪟![Windows AD](https://img.shields.io/badge/WINDOWS_AD-00A4EF?style=for-the-badge&labelColor=00A4EF&color=00A4EF)
+![Windows AD](https://img.shields.io/badge/WINDOWS_AD-00A4EF?style=for-the-badge&labelColor=00A4EF&color=00A4EF)
 ![Splunk](https://img.shields.io/badge/SPLUNK-65A637?style=for-the-badge&logo=splunk&logoColor=ffffff)
-🎣![GoPhish](https://img.shields.io/badge/GOPHISH-1E90FF?style=for-the-badge&labelColor=1E90FF&color=1E90FF)
-🔍![Nessus](https://img.shields.io/badge/NESSUS-00897B?style=for-the-badge&labelColor=00897B&color=00897B)
+![GoPhish](https://img.shields.io/badge/GOPHISH-1E90FF?style=for-the-badge&labelColor=1E90FF&color=1E90FF)
+![Nessus](https://img.shields.io/badge/NESSUS-00897B?style=for-the-badge&labelColor=00897B&color=00897B)
 
 **// VULN SCANNING &amp; C2**
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-FF6600?style=for-the-badge&logo=owasp&logoColor=ffffff)
-🛡️![OpenVAS](https://img.shields.io/badge/OPENVAS-2F4F4F?style=for-the-badge&labelColor=2F4F4F&color=2F4F4F)
-🧙![Mythic C2](https://img.shields.io/badge/MYTHIC_C2-4B0082?style=for-the-badge&labelColor=4B0082&color=4B0082)
+![OpenVAS](https://img.shields.io/badge/OPENVAS-2F4F4F?style=for-the-badge&labelColor=2F4F4F&color=2F4F4F)
+![Mythic C2](https://img.shields.io/badge/MYTHIC_C2-4B0082?style=for-the-badge&labelColor=4B0082&color=4B0082)
 
 **// SCRIPTING**
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff)
-⚡![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&labelColor=5391FE&color=5391FE)
+![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&labelColor=5391FE&color=5391FE)
 
 </div>
 
@@ -89,12 +89,12 @@ transition_to -> "Hardcore Red Teaming Operations Role"
 <div align="center">
 
 ![Claude MCP](https://img.shields.io/badge/CLAUDE_MCP-D97757?style=for-the-badge&logo=claude&logoColor=ffffff)
-🔌![Mythic MCP](https://img.shields.io/badge/MYTHIC_MCP-6A5ACD?style=for-the-badge&labelColor=6A5ACD&color=6A5ACD)
+![Mythic MCP](https://img.shields.io/badge/MYTHIC_MCP-6A5ACD?style=for-the-badge&labelColor=6A5ACD&color=6A5ACD)
 ![Claude Code](https://img.shields.io/badge/CLAUDE_CODE-CC785C?style=for-the-badge&logo=claudecode&logoColor=ffffff)
 ![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=ffffff)
-🧠![OSINT with AI](https://img.shields.io/badge/OSINT_WITH_AI-17A2B8?style=for-the-badge&labelColor=17A2B8&color=17A2B8)
-🔁![CI/CD AI Pipelines](https://img.shields.io/badge/CI%2FCD_AI_PIPELINES-FF7F50?style=for-the-badge&labelColor=FF7F50&color=FF7F50)
-🐺![BloodHound](https://img.shields.io/badge/BLOODHOUND-003153?style=for-the-badge&labelColor=003153&color=003153)
+![OSINT with AI](https://img.shields.io/badge/OSINT_WITH_AI-17A2B8?style=for-the-badge&labelColor=17A2B8&color=17A2B8)
+![CI/CD AI Pipelines](https://img.shields.io/badge/CI%2FCD_AI_PIPELINES-FF7F50?style=for-the-badge&labelColor=FF7F50&color=FF7F50)
+![BloodHound](https://img.shields.io/badge/BLOODHOUND-003153?style=for-the-badge&labelColor=003153&color=003153)
 
 </div>
 
