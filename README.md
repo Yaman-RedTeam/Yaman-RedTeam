@@ -215,6 +215,36 @@ transition_to -> "Hardcore Red Teaming Operations Role"
 <img height="56" src="assets/certs/oco-ai.svg" alt="OCO-AI Certification" />
 <img height="56" src="assets/certs/mcbta.svg" alt="MCBTA Certification" />
 
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="assets/certs/crta.png"><img src="assets/certs/crta.png" width="100%" alt="CRTA Certificate" /></a>
+<br/><sub><b>CRTA</b> — Certified Red Team Analyst</sub>
+</td>
+<td align="center" width="33%">
+<a href="assets/certs/api-rta.png"><img src="assets/certs/api-rta.png" width="100%" alt="API-RTA Certificate" /></a>
+<br/><sub><b>API-RTA</b> — Certified API Red Team Analyst</sub>
+</td>
+<td align="center" width="33%">
+<a href="assets/certs/web-rta.png"><img src="assets/certs/web-rta.png" width="100%" alt="WEB-RTA Certificate" /></a>
+<br/><sub><b>WEB-RTA</b> — Certified Web Red Team Analyst</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="assets/certs/oco-ai.png"><img src="assets/certs/oco-ai.png" width="100%" alt="OCO-AI Certificate" /></a>
+<br/><sub><b>OCO-AI</b> — Certified Offensive AI Operator</sub>
+</td>
+<td align="center" width="33%">
+<a href="assets/certs/mcbta.png"><img src="assets/certs/mcbta.png" width="100%" alt="MCBTA Certificate" /></a>
+<br/><sub><b>MCBTA</b> — Certified Multi-Cloud Blue Team Analyst</sub>
+</td>
+<td width="33%"></td>
+</tr>
+</table>
+
 </div>
 
 ---
