@@ -50,29 +50,29 @@ transition_to -> "Hardcore Red Teaming Operations Role"
 <div align="center">
 
 **// EXPLOITATION**
-![Metasploit](https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logo=metasploit&logoColor=ff1a1a)
-![Burp Suite](https://img.shields.io/badge/BURP_SUITE-000000?style=for-the-badge&logo=burpsuite&logoColor=ff1a1a)
-🎯![Cobalt Strike](https://img.shields.io/badge/COBALT_STRIKE-000000?style=for-the-badge&labelColor=000000&color=8b0000)
-💉![sqlmap](https://img.shields.io/badge/SQLMAP-000000?style=for-the-badge&labelColor=000000&color=8b0000)
-🐉![Hydra](https://img.shields.io/badge/HYDRA-000000?style=for-the-badge&labelColor=000000&color=8b0000)
+![Metasploit](https://img.shields.io/badge/METASPLOIT-D9534F?style=for-the-badge&logo=metasploit&logoColor=ffffff)
+![Burp Suite](https://img.shields.io/badge/BURP_SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=ffffff)
+🎯![Cobalt Strike](https://img.shields.io/badge/COBALT_STRIKE-B8860B?style=for-the-badge&labelColor=B8860B&color=B8860B)
+💉![sqlmap](https://img.shields.io/badge/SQLMAP-FF8C00?style=for-the-badge&labelColor=FF8C00&color=FF8C00)
+🐉![Hydra](https://img.shields.io/badge/HYDRA-6A0DAD?style=for-the-badge&labelColor=6A0DAD&color=6A0DAD)
 
 **// RECON &amp; OSINT**
-🛰️![Nmap](https://img.shields.io/badge/NMAP-000000?style=for-the-badge&labelColor=000000&color=8b0000)
-🌾![theHarvester](https://img.shields.io/badge/THEHARVESTER-000000?style=for-the-badge&labelColor=000000&color=8b0000)
-🕸️![Maltego](https://img.shields.io/badge/MALTEGO-000000?style=for-the-badge&labelColor=000000&color=8b0000)
-![Wireshark](https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=ff1a1a)
+🛰️![Nmap](https://img.shields.io/badge/NMAP-00A8E8?style=for-the-badge&labelColor=00A8E8&color=00A8E8)
+🌾![theHarvester](https://img.shields.io/badge/THEHARVESTER-DAA520?style=for-the-badge&labelColor=DAA520&color=DAA520)
+🕸️![Maltego](https://img.shields.io/badge/MALTEGO-2E8B57?style=for-the-badge&labelColor=2E8B57&color=2E8B57)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=ffffff)
 
 **// SYSTEMS, DETECTION &amp; PHISHING**
-![Kali](https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=ff1a1a)
-🪟![Windows AD](https://img.shields.io/badge/WINDOWS_AD-000000?style=for-the-badge&labelColor=000000&color=8b0000)
-![Splunk](https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=ff1a1a)
-🎣![GoPhish](https://img.shields.io/badge/GOPHISH-000000?style=for-the-badge&labelColor=000000&color=8b0000)
-🔍![Nessus](https://img.shields.io/badge/NESSUS-000000?style=for-the-badge&labelColor=000000&color=8b0000)
+![Kali](https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
+🪟![Windows AD](https://img.shields.io/badge/WINDOWS_AD-00A4EF?style=for-the-badge&labelColor=00A4EF&color=00A4EF)
+![Splunk](https://img.shields.io/badge/SPLUNK-65A637?style=for-the-badge&logo=splunk&logoColor=ffffff)
+🎣![GoPhish](https://img.shields.io/badge/GOPHISH-1E90FF?style=for-the-badge&labelColor=1E90FF&color=1E90FF)
+🔍![Nessus](https://img.shields.io/badge/NESSUS-00897B?style=for-the-badge&labelColor=00897B&color=00897B)
 
 **// SCRIPTING**
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=ff1a1a)
-![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=ff1a1a)
-⚡![PowerShell](https://img.shields.io/badge/POWERSHELL-000000?style=for-the-badge&labelColor=000000&color=8b0000)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff)
+⚡![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&labelColor=5391FE&color=5391FE)
 
 </div>
 
