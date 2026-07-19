@@ -25,11 +25,11 @@ location    = Sitapur, Uttar Pradesh, IN
 education   = MCA (Cybersecurity) — Amity University
 
 [certifications]
+CRTA        = ONLINE   # Certified Red Team Analyst
+API-RTA     = ONLINE   # API Red Team Analyst
+WEB-RTA     = ONLINE   # Web Red Team Analyst
+OCO-AI      = ONLINE   # Offensive Cyber Operations - AI
 eJPT        = ONLINE   # Junior Penetration Tester
-ISC2_CC     = ONLINE   # Certified in Cybersecurity
-CRTS_V2     = ONLINE   # Red Team Specialist
-COPO        = ONLINE   # Certified Offensive Phishing Operator
-Offensive_AI_Operator = ONLINE
 
 [current_focus]
 >> Web & API Penetration Testing
@@ -50,51 +50,127 @@ transition_to -> "Hardcore Red Teaming Operations Role"
 <div align="center">
 
 **// EXPLOITATION**
-![Metasploit](https://img.shields.io/badge/METASPLOIT-D9534F?style=for-the-badge&logo=metasploit&logoColor=ffffff)
-![Burp Suite](https://img.shields.io/badge/BURP_SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=ffffff)
-![Cobalt Strike](https://img.shields.io/badge/COBALT_STRIKE-B8860B?style=for-the-badge&labelColor=B8860B&color=B8860B)
-![sqlmap](https://img.shields.io/badge/SQLMAP-FF8C00?style=for-the-badge&labelColor=FF8C00&color=FF8C00)
-![Hydra](https://img.shields.io/badge/HYDRA-6A0DAD?style=for-the-badge&labelColor=6A0DAD&color=6A0DAD)
-![John the Ripper](https://img.shields.io/badge/JOHN_THE_RIPPER-8B8000?style=for-the-badge&labelColor=8B8000&color=8B8000)
+![Metasploit](https://img.shields.io/badge/METASPLOIT-C1121F?style=for-the-badge&logo=metasploit&logoColor=ffffff)
+![Burp Suite Pro](https://img.shields.io/badge/BURP_SUITE_PRO-C1121F?style=for-the-badge&logo=burpsuite&logoColor=ffffff)
+![SQLMap](https://img.shields.io/badge/SQLMAP-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![Hydra](https://img.shields.io/badge/HYDRA-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![John the Ripper](https://img.shields.io/badge/JOHN_THE_RIPPER-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![Hashcat](https://img.shields.io/badge/HASHCAT-C1121F?style=for-the-badge&logo=hashcat&logoColor=ffffff)
+![NetExec](https://img.shields.io/badge/NETEXEC-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![CrackMapExec](https://img.shields.io/badge/CRACKMAPEXEC-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![Impacket](https://img.shields.io/badge/IMPACKET-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![Responder](https://img.shields.io/badge/RESPONDER-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![Evil-WinRM](https://img.shields.io/badge/EVIL_WINRM-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![PowerView](https://img.shields.io/badge/POWERVIEW-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![PowerSploit](https://img.shields.io/badge/POWERSPLOIT-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![Mimikatz](https://img.shields.io/badge/MIMIKATZ-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![Rubeus](https://img.shields.io/badge/RUBEUS-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![Seatbelt](https://img.shields.io/badge/SEATBELT-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![Certipy](https://img.shields.io/badge/CERTIPY-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![PetitPotam](https://img.shields.io/badge/PETITPOTAM-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![Coercer](https://img.shields.io/badge/COERCER-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![Ligolo-ng](https://img.shields.io/badge/LIGOLO_NG-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![Chisel](https://img.shields.io/badge/CHISEL-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+![Socat](https://img.shields.io/badge/SOCAT-C1121F?style=for-the-badge&labelColor=C1121F&color=C1121F)
+
+**// WEB APPLICATION SECURITY**
+![Burp Suite](https://img.shields.io/badge/BURP_SUITE-E85D04?style=for-the-badge&logo=burpsuite&logoColor=ffffff)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-E85D04?style=for-the-badge&logo=owasp&logoColor=ffffff)
+![ffuf](https://img.shields.io/badge/FFUF-E85D04?style=for-the-badge&labelColor=E85D04&color=E85D04)
+![Gobuster](https://img.shields.io/badge/GOBUSTER-E85D04?style=for-the-badge&labelColor=E85D04&color=E85D04)
+![Dirsearch](https://img.shields.io/badge/DIRSEARCH-E85D04?style=for-the-badge&labelColor=E85D04&color=E85D04)
+![Feroxbuster](https://img.shields.io/badge/FEROXBUSTER-E85D04?style=for-the-badge&labelColor=E85D04&color=E85D04)
+![Nikto](https://img.shields.io/badge/NIKTO-E85D04?style=for-the-badge&labelColor=E85D04&color=E85D04)
+![Nuclei](https://img.shields.io/badge/NUCLEI-E85D04?style=for-the-badge&labelColor=E85D04&color=E85D04)
+![httpx](https://img.shields.io/badge/HTTPX-E85D04?style=for-the-badge&labelColor=E85D04&color=E85D04)
+![Katana](https://img.shields.io/badge/KATANA-E85D04?style=for-the-badge&labelColor=E85D04&color=E85D04)
+![Dalfox](https://img.shields.io/badge/DALFOX-E85D04?style=for-the-badge&labelColor=E85D04&color=E85D04)
+![XSStrike](https://img.shields.io/badge/XSSTRIKE-E85D04?style=for-the-badge&labelColor=E85D04&color=E85D04)
+![WhatWeb](https://img.shields.io/badge/WHATWEB-E85D04?style=for-the-badge&labelColor=E85D04&color=E85D04)
+![Arjun](https://img.shields.io/badge/ARJUN-E85D04?style=for-the-badge&labelColor=E85D04&color=E85D04)
+![Subfinder](https://img.shields.io/badge/SUBFINDER-E85D04?style=for-the-badge&labelColor=E85D04&color=E85D04)
 
 **// RECON &amp; OSINT**
-![Nmap](https://img.shields.io/badge/NMAP-00A8E8?style=for-the-badge&labelColor=00A8E8&color=00A8E8)
-![theHarvester](https://img.shields.io/badge/THEHARVESTER-DAA520?style=for-the-badge&labelColor=DAA520&color=DAA520)
-![Maltego](https://img.shields.io/badge/MALTEGO-2E8B57?style=for-the-badge&labelColor=2E8B57&color=2E8B57)
-![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=ffffff)
+![Nmap](https://img.shields.io/badge/NMAP-1F6FB2?style=for-the-badge&labelColor=1F6FB2&color=1F6FB2)
+![Masscan](https://img.shields.io/badge/MASSCAN-1F6FB2?style=for-the-badge&labelColor=1F6FB2&color=1F6FB2)
+![RustScan](https://img.shields.io/badge/RUSTSCAN-1F6FB2?style=for-the-badge&labelColor=1F6FB2&color=1F6FB2)
+![Amass](https://img.shields.io/badge/AMASS-1F6FB2?style=for-the-badge&labelColor=1F6FB2&color=1F6FB2)
+![theHarvester](https://img.shields.io/badge/THEHARVESTER-1F6FB2?style=for-the-badge&labelColor=1F6FB2&color=1F6FB2)
+![Maltego](https://img.shields.io/badge/MALTEGO-1F6FB2?style=for-the-badge&labelColor=1F6FB2&color=1F6FB2)
+![SpiderFoot](https://img.shields.io/badge/SPIDERFOOT-1F6FB2?style=for-the-badge&labelColor=1F6FB2&color=1F6FB2)
+![Recon-ng](https://img.shields.io/badge/RECON_NG-1F6FB2?style=for-the-badge&labelColor=1F6FB2&color=1F6FB2)
+![Shodan](https://img.shields.io/badge/SHODAN-1F6FB2?style=for-the-badge&labelColor=1F6FB2&color=1F6FB2)
+![Censys](https://img.shields.io/badge/CENSYS-1F6FB2?style=for-the-badge&labelColor=1F6FB2&color=1F6FB2)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-1F6FB2?style=for-the-badge&logo=wireshark&logoColor=ffffff)
+![Tcpdump](https://img.shields.io/badge/TCPDUMP-1F6FB2?style=for-the-badge&labelColor=1F6FB2&color=1F6FB2)
+![EyeWitness](https://img.shields.io/badge/EYEWITNESS-1F6FB2?style=for-the-badge&labelColor=1F6FB2&color=1F6FB2)
 
-**// SYSTEMS, DETECTION &amp; PHISHING**
-![Kali](https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
-![Windows AD](https://img.shields.io/badge/WINDOWS_AD-00A4EF?style=for-the-badge&labelColor=00A4EF&color=00A4EF)
-![Splunk](https://img.shields.io/badge/SPLUNK-65A637?style=for-the-badge&logo=splunk&logoColor=ffffff)
-![GoPhish](https://img.shields.io/badge/GOPHISH-1E90FF?style=for-the-badge&labelColor=1E90FF&color=1E90FF)
-![Nessus](https://img.shields.io/badge/NESSUS-00897B?style=for-the-badge&labelColor=00897B&color=00897B)
+**// ACTIVE DIRECTORY**
+![Windows AD](https://img.shields.io/badge/WINDOWS_AD-5B2C87?style=for-the-badge&labelColor=5B2C87&color=5B2C87)
+![BloodHound](https://img.shields.io/badge/BLOODHOUND-5B2C87?style=for-the-badge&labelColor=5B2C87&color=5B2C87)
+![SharpHound](https://img.shields.io/badge/SHARPHOUND-5B2C87?style=for-the-badge&labelColor=5B2C87&color=5B2C87)
+![LDAP](https://img.shields.io/badge/LDAP-5B2C87?style=for-the-badge&labelColor=5B2C87&color=5B2C87)
+![Kerberos](https://img.shields.io/badge/KERBEROS-5B2C87?style=for-the-badge&labelColor=5B2C87&color=5B2C87)
+![NTLM](https://img.shields.io/badge/NTLM-5B2C87?style=for-the-badge&labelColor=5B2C87&color=5B2C87)
+![SMB](https://img.shields.io/badge/SMB-5B2C87?style=for-the-badge&labelColor=5B2C87&color=5B2C87)
+![WinRM](https://img.shields.io/badge/WINRM-5B2C87?style=for-the-badge&labelColor=5B2C87&color=5B2C87)
+![Impacket](https://img.shields.io/badge/IMPACKET-5B2C87?style=for-the-badge&labelColor=5B2C87&color=5B2C87)
+![Mimikatz](https://img.shields.io/badge/MIMIKATZ-5B2C87?style=for-the-badge&labelColor=5B2C87&color=5B2C87)
+![Rubeus](https://img.shields.io/badge/RUBEUS-5B2C87?style=for-the-badge&labelColor=5B2C87&color=5B2C87)
+![Certipy](https://img.shields.io/badge/CERTIPY-5B2C87?style=for-the-badge&labelColor=5B2C87&color=5B2C87)
+![PowerView](https://img.shields.io/badge/POWERVIEW-5B2C87?style=for-the-badge&labelColor=5B2C87&color=5B2C87)
 
-**// VULN SCANNING &amp; C2**
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-FF6600?style=for-the-badge&logo=owasp&logoColor=ffffff)
-![OpenVAS](https://img.shields.io/badge/OPENVAS-2F4F4F?style=for-the-badge&labelColor=2F4F4F&color=2F4F4F)
-![Mythic C2](https://img.shields.io/badge/MYTHIC_C2-4B0082?style=for-the-badge&labelColor=4B0082&color=4B0082)
+**// VULNERABILITY ASSESSMENT**
+![Nessus](https://img.shields.io/badge/NESSUS-0E7C7B?style=for-the-badge&labelColor=0E7C7B&color=0E7C7B)
+![OpenVAS](https://img.shields.io/badge/OPENVAS-0E7C7B?style=for-the-badge&labelColor=0E7C7B&color=0E7C7B)
+![Nuclei](https://img.shields.io/badge/NUCLEI-0E7C7B?style=for-the-badge&labelColor=0E7C7B&color=0E7C7B)
+![Nikto](https://img.shields.io/badge/NIKTO-0E7C7B?style=for-the-badge&labelColor=0E7C7B&color=0E7C7B)
 
-**// SCRIPTING**
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff)
-![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&labelColor=5391FE&color=5391FE)
+**// PHISHING &amp; SOCIAL ENGINEERING**
+![GoPhish](https://img.shields.io/badge/GOPHISH-B5179E?style=for-the-badge&labelColor=B5179E&color=B5179E)
+![SET Toolkit](https://img.shields.io/badge/SET_TOOLKIT-B5179E?style=for-the-badge&labelColor=B5179E&color=B5179E)
+![Evilginx2](https://img.shields.io/badge/EVILGINX2-B5179E?style=for-the-badge&labelColor=B5179E&color=B5179E)
 
-</div>
+**// DETECTION &amp; DFIR**
+![Splunk](https://img.shields.io/badge/SPLUNK-2D6A4F?style=for-the-badge&logo=splunk&logoColor=ffffff)
+![Sysmon](https://img.shields.io/badge/SYSMON-2D6A4F?style=for-the-badge&labelColor=2D6A4F&color=2D6A4F)
+![Sigma](https://img.shields.io/badge/SIGMA-2D6A4F?style=for-the-badge&labelColor=2D6A4F&color=2D6A4F)
+![Velociraptor](https://img.shields.io/badge/VELOCIRAPTOR-2D6A4F?style=for-the-badge&labelColor=2D6A4F&color=2D6A4F)
+![YARA](https://img.shields.io/badge/YARA-2D6A4F?style=for-the-badge&labelColor=2D6A4F&color=2D6A4F)
+![Suricata](https://img.shields.io/badge/SURICATA-2D6A4F?style=for-the-badge&labelColor=2D6A4F&color=2D6A4F)
+![Zeek](https://img.shields.io/badge/ZEEK-2D6A4F?style=for-the-badge&labelColor=2D6A4F&color=2D6A4F)
+![ELK](https://img.shields.io/badge/ELK_STACK-2D6A4F?style=for-the-badge&logo=elasticsearch&logoColor=ffffff)
+![Wazuh](https://img.shields.io/badge/WAZUH-2D6A4F?style=for-the-badge&labelColor=2D6A4F&color=2D6A4F)
 
----
+**// OPERATING SYSTEMS**
+![Kali Linux](https://img.shields.io/badge/KALI_LINUX-495867?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
+![Parrot OS](https://img.shields.io/badge/PARROT_OS-495867?style=for-the-badge&logo=parrotsecurity&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/UBUNTU-495867?style=for-the-badge&logo=ubuntu&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/WINDOWS-495867?style=for-the-badge&labelColor=495867&color=495867)
+![Windows Server](https://img.shields.io/badge/WINDOWS_SERVER-495867?style=for-the-badge&labelColor=495867&color=495867)
 
-## `[ AI_OFFENSIVE_OPS ]`
+**// CLOUD &amp; INFRASTRUCTURE**
+![Docker](https://img.shields.io/badge/DOCKER-0091D5?style=for-the-badge&logo=docker&logoColor=ffffff)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-0091D5?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/AWS-0091D5?style=for-the-badge&labelColor=0091D5&color=0091D5)
+![Azure](https://img.shields.io/badge/AZURE-0091D5?style=for-the-badge&labelColor=0091D5&color=0091D5)
+![Microsoft Entra ID](https://img.shields.io/badge/MICROSOFT_ENTRA_ID-0091D5?style=for-the-badge&labelColor=0091D5&color=0091D5)
 
-<div align="center">
-
+**// AI OFFENSIVE OPERATIONS**
+![Claude Code](https://img.shields.io/badge/CLAUDE_CODE-D97757?style=for-the-badge&logo=claudecode&logoColor=ffffff)
 ![Claude MCP](https://img.shields.io/badge/CLAUDE_MCP-D97757?style=for-the-badge&logo=claude&logoColor=ffffff)
-![Mythic MCP](https://img.shields.io/badge/MYTHIC_MCP-6A5ACD?style=for-the-badge&labelColor=6A5ACD&color=6A5ACD)
-![Claude Code](https://img.shields.io/badge/CLAUDE_CODE-CC785C?style=for-the-badge&logo=claudecode&logoColor=ffffff)
-![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=ffffff)
-![OSINT with AI](https://img.shields.io/badge/OSINT_WITH_AI-17A2B8?style=for-the-badge&labelColor=17A2B8&color=17A2B8)
-![CI/CD AI Pipelines](https://img.shields.io/badge/CI%2FCD_AI_PIPELINES-FF7F50?style=for-the-badge&labelColor=FF7F50&color=FF7F50)
-![BloodHound](https://img.shields.io/badge/BLOODHOUND-003153?style=for-the-badge&labelColor=003153&color=003153)
+![Mythic MCP](https://img.shields.io/badge/MYTHIC_MCP-D97757?style=for-the-badge&labelColor=D97757&color=D97757)
+![Mythic C2](https://img.shields.io/badge/MYTHIC_C2-D97757?style=for-the-badge&labelColor=D97757&color=D97757)
+![OpenAI](https://img.shields.io/badge/OPENAI-D97757?style=for-the-badge&labelColor=D97757&color=D97757)
+![OpenRouter](https://img.shields.io/badge/OPENROUTER-D97757?style=for-the-badge&logo=openrouter&logoColor=ffffff)
+![MCP](https://img.shields.io/badge/MCP-D97757?style=for-the-badge&labelColor=D97757&color=D97757)
+![AI Agents](https://img.shields.io/badge/AI_AGENTS-D97757?style=for-the-badge&labelColor=D97757&color=D97757)
+![Prompt Engineering](https://img.shields.io/badge/PROMPT_ENGINEERING-D97757?style=for-the-badge&labelColor=D97757&color=D97757)
+![LLM Security](https://img.shields.io/badge/LLM_SECURITY-D97757?style=for-the-badge&labelColor=D97757&color=D97757)
+![AI-assisted Pentesting](https://img.shields.io/badge/AI_ASSISTED_PENTESTING-D97757?style=for-the-badge&labelColor=D97757&color=D97757)
+![OSINT with AI](https://img.shields.io/badge/OSINT_WITH_AI-D97757?style=for-the-badge&labelColor=D97757&color=D97757)
+![Red Team Automation](https://img.shields.io/badge/RED_TEAM_AUTOMATION-D97757?style=for-the-badge&labelColor=D97757&color=D97757)
+![CI/CD AI Pipelines](https://img.shields.io/badge/CI%2FCD_AI_PIPELINES-D97757?style=for-the-badge&labelColor=D97757&color=D97757)
 
 </div>
 
@@ -135,11 +211,11 @@ transition_to -> "Hardcore Red Teaming Operations Role"
 
 <div align="center">
 
-![eJPT](https://img.shields.io/badge/eJPT-JUNIOR_PENETRATION_TESTER-000000?style=for-the-badge&logoColor=ff1a1a&labelColor=000000)
-![ISC2 CC](https://img.shields.io/badge/ISC2-CERTIFIED_IN_CYBERSECURITY-000000?style=for-the-badge&logoColor=ff1a1a&labelColor=000000)
-![CRTS V2](https://img.shields.io/badge/CRTS_V2-RED_TEAM_SPECIALIST-000000?style=for-the-badge&logoColor=ff1a1a&labelColor=000000)
-![COPO](https://img.shields.io/badge/COPO-OFFENSIVE_PHISHING_OPERATOR-000000?style=for-the-badge&logoColor=ff1a1a&labelColor=000000)
-![Offensive AI](https://img.shields.io/badge/OFFENSIVE_AI-OPERATOR-000000?style=for-the-badge&logoColor=ff1a1a&labelColor=000000)
+![CRTA](https://img.shields.io/badge/CRTA-B8860B?style=for-the-badge&labelColor=000000&color=B8860B)
+![API-RTA](https://img.shields.io/badge/API--RTA-B8860B?style=for-the-badge&labelColor=000000&color=B8860B)
+![WEB-RTA](https://img.shields.io/badge/WEB--RTA-B8860B?style=for-the-badge&labelColor=000000&color=B8860B)
+![OCO-AI](https://img.shields.io/badge/OCO--AI-B8860B?style=for-the-badge&labelColor=000000&color=B8860B)
+![eJPT](https://img.shields.io/badge/eJPT-B8860B?style=for-the-badge&labelColor=000000&color=B8860B)
 
 </div>
 
