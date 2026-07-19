@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180.5" height="52.0" viewBox="0 0 180.5 52.0" role="img" aria-label="Burp Suite Pro">
+<defs>
+<filter id="glow" x="-200%" y="-200%" width="500%" height="500%">
+<feGaussianBlur stdDeviation="6" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="b"/></feMerge>
+</filter>
+<filter id="halo" x="-200%" y="-200%" width="500%" height="500%">
+<feGaussianBlur stdDeviation="4"/>
+</filter>
+</defs>
+<rect x="0.5" y="0.5" width="179.5" height="51.0" rx="4" fill="#0a0a0d"/>
+<rect x="12.0" y="12.0" width="156.5" height="28.0" fill="#c1121f" filter="url(#glow)" opacity="0.9"/>
+<g transform="translate(12.0,12.0)"><title>BURP SUITE PRO</title><g shape-rendering="crispEdges"><rect width="156.5" height="28" fill="#c1121f"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QnVycCBTdWl0ZTwvdGl0bGU+PHBhdGggZD0iTTAgMHYyNGgyNFYwWm0xMS4wNjMgMy4zNTdoMS44NzR2Mi43NTZMMTAuNDEgOS4yaDIuNTI3djMuNzQ4aDQuNTc5bC00LjU3OCA1LjU5MnYyLjEwNGgtMS44NzZ2LTIuNzU4bDIuNTI4LTMuMDg2aC0yLjUyN1YxMS4wNWgtNC41OGw0LjU4LTUuNTkyWiIvPjwvc3ZnPg=="/><text transform="scale(.1)" x="882.5" y="175" textLength="1125" font-weight="bold">BURP SUITE PRO</text></g></g>
+<rect x="12.0" y="12.0" width="156.5" height="28.0" fill="none" stroke="#c1121f" stroke-width="6.4" filter="url(#halo)" opacity="0.85"/>
+<rect x="12.0" y="12.0" width="156.5" height="28.0" fill="none" stroke="#ffffff" stroke-width="1.4" opacity="0.85"/>
+</svg>

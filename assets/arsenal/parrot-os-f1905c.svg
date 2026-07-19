@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144.2" height="52.0" viewBox="0 0 144.2 52.0" role="img" aria-label="Parrot OS">
+<defs>
+<filter id="glow" x="-200%" y="-200%" width="500%" height="500%">
+<feGaussianBlur stdDeviation="6" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="b"/></feMerge>
+</filter>
+<filter id="halo" x="-200%" y="-200%" width="500%" height="500%">
+<feGaussianBlur stdDeviation="4"/>
+</filter>
+</defs>
+<rect x="0.5" y="0.5" width="143.2" height="51.0" rx="4" fill="#0a0a0d"/>
+<rect x="12.0" y="12.0" width="120.2" height="28.0" fill="#495867" filter="url(#glow)" opacity="0.9"/>
+<g transform="translate(12.0,12.0)"><title>PARROT OS</title><g shape-rendering="crispEdges"><rect width="120.25" height="28" fill="#495867"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+UGFycm90IFNlY3VyaXR5PC90aXRsZT48cGF0aCBkPSJNMTIgMEExMiAxMiAwIDAgMCAwIDEyYTEyIDEyIDAgMCAwIDEyIDEyIDEyIDEyIDAgMCAwIDEyLTEyQTEyIDEyIDAgMCAwIDEyIDBabTYuMjY3IDIuNzg0TDEzLjAzIDUuNTRsOC4wNS0uMTc5LTguMDUgMy4zMzMtMi4xNTQgMi42ODggNS4wMDcgOS4wMzgtMS41MzYtMS42MDUgMS42NDUgMy40NTYtNC45MzctNS41MjctNi4yNjgtNi4yOEwyLjc3IDEyLjExbC43LTMuNDQyIDQuMDE4LS4yNjEuODIzLTQuMDZaIi8+PC9zdmc+"/><text transform="scale(.1)" x="701.25" y="175" textLength="762.5" font-weight="bold">PARROT OS</text></g></g>
+<rect x="12.0" y="12.0" width="120.2" height="28.0" fill="none" stroke="#495867" stroke-width="6.4" filter="url(#halo)" opacity="0.85"/>
+<rect x="12.0" y="12.0" width="120.2" height="28.0" fill="none" stroke="#ffffff" stroke-width="1.4" opacity="0.85"/>
+</svg>

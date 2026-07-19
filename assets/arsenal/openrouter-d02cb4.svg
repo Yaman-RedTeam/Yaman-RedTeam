@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="157.5" height="52.0" viewBox="0 0 157.5 52.0" role="img" aria-label="OpenRouter">
+<defs>
+<filter id="glow" x="-200%" y="-200%" width="500%" height="500%">
+<feGaussianBlur stdDeviation="6" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="b"/></feMerge>
+</filter>
+<filter id="halo" x="-200%" y="-200%" width="500%" height="500%">
+<feGaussianBlur stdDeviation="4"/>
+</filter>
+</defs>
+<rect x="0.5" y="0.5" width="156.5" height="51.0" rx="4" fill="#0a0a0d"/>
+<rect x="12.0" y="12.0" width="133.5" height="28.0" fill="#d97757" filter="url(#glow)" opacity="0.9"/>
+<g transform="translate(12.0,12.0)"><title>OPENROUTER</title><g shape-rendering="crispEdges"><rect width="133.5" height="28" fill="#d97757"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+T3BlblJvdXRlcjwvdGl0bGU+PHBhdGggZD0iTTE2Ljc3OCAxLjg0NHYxLjkxOXEtLjU2OS0uMDI2LTEuMTM4LS4wMzItLjcwOC0uMDA4LTEuNDE1LjAzN2MtMS45My4xMjYtNC4wMjMuNzI4LTYuMTQ5IDIuMjM3LTIuOTExIDIuMDY2LTIuNzMxIDEuOTUtNC4xNCAyLjc1LS4zOTYuMjIzLTEuMzQyLjU3NC0yLjE4NS43OTgtLjg0MS4yMjUtMS43NTMuMzMzLTEuNzUxLjMzM3Y0LjIyOXMuNzY4LjEwOCAxLjYxLjMzM2MuODQyLjIyNCAxLjc4OS41NzUgMi4xODUuNzk5IDEuNDEuNzk4IDEuMjI4LjY4MyA0LjE0IDIuNzUgMi4xMjYgMS41MDkgNC4yMiAyLjExIDYuMTQ4IDIuMjM2Ljg4LjA1OCAxLjcxNi4wNDEgMi41NTUuMDA1djEuOTE4bDcuMjIyLTQuMTY4LTcuMjIyLTQuMTd2Mi4xNzZjLS44Ni4wMzgtMS42MTEuMDY1LTIuMjc4LjAyMS0xLjM2NC0uMDktMi40MTctLjM1Ny0zLjk3OS0xLjQ2NS0yLjI0NC0xLjU5My0yLjg2Ni0yLjAyNy0zLjY4LTIuNTA4Ljg4OS0uNTE4IDEuNDQ5LS45MDYgMy44MjItMi41OSAxLjU2LTEuMTA5IDIuNjE0LTEuMzc3IDMuOTc4LTEuNDY2LjY2Ny0uMDQ0IDEuNDE4LS4wMTcgMi4yNzguMDJ2Mi4xNzZMMjQgNi4wMTRaIi8+PC9zdmc+"/><text transform="scale(.1)" x="767.5" y="175" textLength="895" font-weight="bold">OPENROUTER</text></g></g>
+<rect x="12.0" y="12.0" width="133.5" height="28.0" fill="none" stroke="#d97757" stroke-width="6.4" filter="url(#halo)" opacity="0.85"/>
+<rect x="12.0" y="12.0" width="133.5" height="28.0" fill="none" stroke="#ffffff" stroke-width="1.4" opacity="0.85"/>
+</svg>
