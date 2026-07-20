@@ -101,16 +101,6 @@ transition_to -> "Dedicated Red Team Operator specializing in AI-driven offensiv
 
 ---
 
-## `[ TROPHIES.dll ]`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yaman-RedTeam&theme=dracula&no-frame=true&no-bg=true&row=1&margin-w=15&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## `[ STATS.exe ]`
 
 <div align="center">
