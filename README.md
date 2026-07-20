@@ -19,7 +19,7 @@
 
 <br/>
 
-[`🏠 About`](#--cat-aboutmd) · [`🧰 Arsenal`](#-cybersecurity-arsenal) · [`📊 Stats`](#-statsexe-) · [`🎯 Featured Ops`](#-featured_ops-) · [`📜 Certifications`](#-certificationslog-)
+[`🏠 About`](#rootyaman-redteam-cat-aboutmd) · [`🧰 Arsenal`](#-cybersecurity-arsenal) · [`📊 Stats`](#-statsexe-) · [`🎯 Featured Ops`](#-featured_ops-) · [`📜 Certifications`](#-certificationslog-)
 
 </div>
 
