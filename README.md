@@ -20,21 +20,22 @@
 ```ini
 [identity]
 name        = Yaman Nishad
-role        = Red Team Analyst :: Offensive Security
-location    = Sitapur, Uttar Pradesh, IN
-education   = MCA (Cybersecurity) — Amity University
+role        = Red Team Operator | AI Offensive Security
+location    = India
+education   = MCA (Cybersecurity) - Amity University
 
 [certifications]
 verified    = 5   # see CERTIFICATIONS.log section below
 
 [current_focus]
+>> AI-Assisted Red Team Operations
 >> Web & API Penetration Testing
->> Active Directory Exploitation
->> OSINT / Advanced Reconnaissance
->> Red Team Operations & Adversary Simulation
+>> Active Directory Attack Simulation
+>> Advanced Reconnaissance & OSINT
+>> Adversary Emulation & Offensive Automation
 
 [objective]
-transition_to -> "Hardcore Red Teaming Operations Role"
+transition_to -> "Dedicated Red Team Operator specializing in AI-driven offensive security, adversary emulation, Active Directory operations, web exploitation, and advanced attack simulation"
 ```
 
 > *"I don't just secure systems — I exploit them to understand the attacker's methodology, then neutralize the threat before it acts."*
