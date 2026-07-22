@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="assets/banner.jpg" alt="Yaman RedTeam Banner" />
+<img width="100%" src="assets/banner-v2.jpg" alt="Yaman RedTeam Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FF1A1A&background=000000&center=true&vCenter=true&width=650&lines=%3E+whoami+%3A%3A+red_team_analyst;%3E+status+%3A%3A+exploiting+to+defend;%3E+specialty+%3A%3A+OSINT+%2B+AD+%2B+WebPT;%3E+mission+%3A%3A+breach_before_they_do()" alt="Typing SVG" />
 
